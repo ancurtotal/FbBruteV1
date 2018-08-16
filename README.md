@@ -1,4 +1,4 @@
-# FBBRUTEVERSISATU
+# FBBRUTEVERSITSATU
 
 FBBRUTE VERSI SATU (FbBruteV1)
 SCRIPT BUKAN BUATAN GUE
@@ -18,6 +18,13 @@ https://github.com/ancurtotal/FbBruteV1
 $ cd FbBruteV1
 $ chmod +x fbbrute.py
 $ python2 fbbrute.py
+
+
+'''NOTE'''
+
+Sudah Tersedia Wordlist :
+- password.txt
+- password2.txt (password cadangan)
 
 
 EKAY ANCURTOTAL
